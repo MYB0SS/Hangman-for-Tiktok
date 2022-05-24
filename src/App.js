@@ -9,7 +9,7 @@ import { showNotification as show, checkWin} from './helpers/helpers';
 
 import './App.css';
 
-const words = ['tiktok', 'youtube', 'instagram', 'reddit'];
+const words = ['tiktok', 'youtube', 'instagram', 'reddit', 'facebook', 'snapchat'];
 let selectedWord = words[Math.floor(Math.random() * words.length)];
 
 function App() {
