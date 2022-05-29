@@ -6,6 +6,8 @@ Throughout the intensive 2 weeks of lessons by Tiktok engineers, we managed to l
 
 At the end of the camp, we were tasked to curate a project based on the the skills that we were taught and hence we developed this project!
 
+![User Interface](https://user-images.githubusercontent.com/66177132/170874059-9e8c5232-684e-4717-a08d-82f8947f2af4.png)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
