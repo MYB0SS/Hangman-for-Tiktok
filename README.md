@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Hangman for Tiktok
+
+This project was created as part of the Tiktok Youth Camp 2022.
+
+Throughout the intensive 2 weeks of lessons by Tiktok engineers, we managed to learn skills such as HTML, CSS, JavaScript, React, Android Development as well as Git.
+
+At the end of the camp, we were tasked to curate a project based on the the skills that we were taught and hence we developed this project!
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
